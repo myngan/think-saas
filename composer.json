@@ -1,6 +1,6 @@
 {
-    "name": "think/saas",
-    "description": "a saas package for thinkphp 8.0",
+    "name": "yim/saas",
+    "description": "a saas package for thinkphp 8.0,該包為贵州猿创科技有限责任公司開發，這裡只是為了可以在composer加載，打包上傳composer庫",
     "type": "library",
     "require": {
         "topthink/framework": "^8.0",
@@ -15,8 +15,8 @@
     },
     "authors": [
         {
-            "name": "JaguarJack",
-            "email": "njphper@gmail.com"
+            "name": "Yim",
+            "email": "yim@gmail.com"
         }
     ],
     "extra": {
